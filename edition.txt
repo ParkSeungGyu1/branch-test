@@ -3,3 +3,8 @@ second edition
 third edition
 issue resolved
 hotfix my solution
+<<<<<<< HEAD
+hotfix my solution
+======
+Hotfix team's solution
+>>>>>>> origin/main
